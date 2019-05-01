@@ -1,6 +1,8 @@
 # Pong-Game
 Simple multiplayer pong game, as my first game project.
 
+Key Bindings;
+
 Paddle A:
 W: Up
 S: Down
